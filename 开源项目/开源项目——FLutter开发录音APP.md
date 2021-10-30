@@ -2,7 +2,7 @@
 
 # Flutter录音APP
 
-一个录音小工具，[github地址](https://github.com/ThinkerJack/flutter_record)。
+一个录音小工具，[github地址](https://github.com/ThinkerJack/flutter_record)，https://github.com/ThinkerJack/flutter_record。
 
 ## 1.语言环境
 
@@ -39,7 +39,4 @@ permission_handler: ^8.1.3 #请求录音权限
 
 [IOS打包](https://flutter.cn/docs/deployment/ios)，IOS打包比较复杂，推荐一篇[文章](https://segmentfault.com/a/1190000022497620)，文章有些内容有点过时，不过大部分流程都覆盖到了，简单描述一下就是在Xcode中配置好，然后`flutter build ipa      `，生成一个Runner.xcarchive文件，双击xcarchive文件一直Next生成IPA。如果不发布到app store，需要先拿到用户的UDID，添加到Devices，然后按照官网推荐的方式获取证书Certificates，Certificates就是给开发用的电脑装的，然后生成Profiles选中Devices和Certificates。在打包时选中生成的Profiles。如果发布到app store就不需要Profiles，选中Signing选项卡里的Automatically manage signing就可以了。Certificates是必须要安装的。
 
-第二版提升了一下录音的音质，将采样率改成了96000，将比特率改成了256000.
-
-
-![](https://img-blog.csdnimg.cn/20211014155514473.png)
+第二版提升了一下录音的音质，将采样率改成了96000，将比特率改成了256000。

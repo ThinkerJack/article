@@ -1,6 +1,6 @@
 ![](https://img-blog.csdnimg.cn/20211014162816903.png)
 
-android/ios/flutter/angular/java web 5种技术编写的7个demo工程，有点用，可以看看，[github地址](https://github.com/ThinkerJack/jack_demo)。
+android/ios/flutter/angular/java web 5种技术编写的7个demo工程，有点用，可以看看，[github地址](https://github.com/ThinkerJack/jack_demo)，https://github.com/ThinkerJack/jack_demo。
 
 # android_demo
 
@@ -16,7 +16,7 @@ android/ios/flutter/angular/java web 5种技术编写的7个demo工程，有点�
 
 ## 3.项目截图
 
-<img src="https://img-blog.csdnimg.cn/d29d8323a58949a4a952da489d056f23.png?" style="zoom:33%;" />
+![](https://img-blog.csdnimg.cn/d29d8323a58949a4a952da489d056f23.png)
 
 ## 4.开发流程与代码逻辑简述
 
@@ -47,7 +47,7 @@ android/ios/flutter/angular/java web 5种技术编写的7个demo工程，有点�
 
 ## 3.项目截图
 
-<img src="https://img-blog.csdnimg.cn/9b1016b7e4eb4fe58ae7cf5eb96c096f.png" style="zoom: 25%;" />
+![](https://img-blog.csdnimg.cn/9b1016b7e4eb4fe58ae7cf5eb96c096f.png)
 
 ## 4.开发流程与代码逻辑简述
 
@@ -142,7 +142,7 @@ fLutter版本：Channel master, 2.3.0-17.0.pre.414
 
 ## 3.项目截图
 
-<img src="https://img-blog.csdnimg.cn/7bfc8de344d34ddea1e7898a16f11ed5.png" style="zoom: 67%;" />
+![](https://img-blog.csdnimg.cn/7bfc8de344d34ddea1e7898a16f11ed5.png)
 
 ## 4.开发流程与代码逻辑简述
 
@@ -171,7 +171,7 @@ UI框架：UIKit
 
 ## 3.项目截图
 
-<img src="https://img-blog.csdnimg.cn/09512621e00a4173a5e2ae330b64e9b7.png" alt="在这里插入图片描述" style="zoom:67%;" /><img src="https://img-blog.csdnimg.cn/a34dc44d550d4ea18c26a348deaa10f7.png" alt="在这里插入图片描述" style="zoom:67%;" /><img src="https://img-blog.csdnimg.cn/863b4416093e491aa8f5ddefccd237a4.png" alt="在这里插入图片描述" style="zoom:67%;" /><img src="https://img-blog.csdnimg.cn/d076e1e49377453c823a457d790c8a77.png" alt="在这里插入图片描述" style="zoom:67%;" />
+![](https://img-blog.csdnimg.cn/09512621e00a4173a5e2ae330b64e9b7.png)![](https://img-blog.csdnimg.cn/a34dc44d550d4ea18c26a348deaa10f7.png)![](https://img-blog.csdnimg.cn/863b4416093e491aa8f5ddefccd237a4.png)![](https://img-blog.csdnimg.cn/d076e1e49377453c823a457d790c8a77.png)
 
 ## 4.开发流程与代码逻辑简述
 
@@ -195,4 +195,3 @@ UI框架：UIKit
 后续如果自己想写点后台的话，就顺手把这两个readme补齐。
 
 
-![](https://img-blog.csdnimg.cn/20211014162817998.png)

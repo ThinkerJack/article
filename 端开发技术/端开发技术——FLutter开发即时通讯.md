@@ -147,7 +147,4 @@ Socket.io不是WebSocket，它只是将WebSocket和轮询 （Polling）机制以
 
 demo写的比较简单，有问题可以评论。
 
-[项目github地址](https://github.com/ThinkerJack/flutter_im)。
-
-
-![](https://img-blog.csdnimg.cn/20211015185506266.png)
+[项目github地址](https://github.com/ThinkerJack/flutter_im)

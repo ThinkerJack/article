@@ -1,6 +1,6 @@
 ![](https://img-blog.csdnimg.cn/202110141506310.png)
 
-前端时间使用Flutter，iOS，Android三种技术编写了三个相同功能的计算器APP，[github地址](https://github.com/ThinkerJack/android-ios-flutter_calculator)。
+前端时间使用Flutter，iOS，Android三种技术编写了三个相同功能的计算器APP，[github地址](https://github.com/ThinkerJack/android-ios-flutter_calculator)，https://github.com/ThinkerJack/android-ios-flutter_notepad。
 
 # ios_calculator
 
@@ -20,7 +20,7 @@ UI框架：UIKit
 
 ## 3.项目截图
 
-<img src="https://img-blog.csdnimg.cn/img_convert/d9cf4a90e8f9e659fa7cf93ea5e01626.png" style="zoom: 50%;" />
+![](https://img-blog.csdnimg.cn/img_convert/d9cf4a90e8f9e659fa7cf93ea5e01626.png)
 
 ## 4.开发流程与代码逻辑简述
 
@@ -70,7 +70,7 @@ UI框架：UIKit
 
 ## 3.项目截图
 
-<img src="https://img-blog.csdnimg.cn/030dc2799f8b4d9cb0bc7d985ddc01bd.png" style="zoom: 67%;" />
+![](https://img-blog.csdnimg.cn/030dc2799f8b4d9cb0bc7d985ddc01bd.png)
 
 ## 4.开发流程与代码逻辑简述
 
@@ -106,7 +106,7 @@ UI框架：UIKit
 
 ## 3.项目截图
 
-<img src="https://img-blog.csdnimg.cn/a018be470fdd4144ab85897ccfb0bc4c.png" style="zoom: 67%;" />
+![](https://img-blog.csdnimg.cn/a018be470fdd4144ab85897ccfb0bc4c.png)
 
 ## 4.开发流程与代码逻辑简述
 
@@ -136,6 +136,3 @@ android/iOS/flutter 三种技术写同一种APP本意是为了熟悉一下近来
 我虽然希望一年后的自己成功，但我更希望一年后的自己快乐。人生一辈子都追求正确，虽然能有一个好的结果，但是也会错过一些其他的风景，我决定去看看这些风景。
 
 “我支持你，加油！”
-
-
-![](https://img-blog.csdnimg.cn/20211014150633927.png)

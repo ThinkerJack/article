@@ -1,5 +1,5 @@
-![](https://img-blog.csdnimg.cn/20210114173519135.png)
-## 1.你是否需要更好，更简洁的日志
+![](https://img-blog.csdnimg.cn/38fbbdcb183a4cb4b51ed03edc91a9fe.png)
+# 1. 你是否需要更好，更简洁的日志?
 
 ![](https://img-blog.csdnimg.cn/img_convert/186815b8d09ed942c4681ec86cad60c4.png)
 
@@ -35,7 +35,7 @@ logger.wtf("WTF logs??")
 [![DDnGHx.png](https://img-blog.csdnimg.cn/img_convert/ecf2ee03a4ea398566fee3948f15e503.png)](https://imgchr.com/i/DDnGHx)
 不仅如此，你还可以晃动你的设备来查看屏幕上的日志。(PS：需要导入[logger_flutter](https://pub.dev/packages/logger_flutter)包)
 
-## ![](https://img-blog.csdnimg.cn/img_convert/186815b8d09ed942c4681ec86cad60c4.png)2.API还没有从后端准备好，或者根本没有API ?应用程序靠自己硬编数据?
+# ![](https://img-blog.csdnimg.cn/img_convert/186815b8d09ed942c4681ec86cad60c4.png)2. API还没有从后端准备好，或者根本没有API ?应用程序靠自己硬编数据?
 
 如果你还在艰难的coding,全是自己硬编数据因为后台没有准备好他们的API或者根本没有任何API,如果你仍然希望UI有意义,您可以使用**faker**包——Jesper Hakansson为应用程序生成有意义的数据。
 
@@ -65,7 +65,7 @@ faker.sport.name()
 
 ![](https://img-blog.csdnimg.cn/img_convert/f946a78619c9b1dcaee29c33f2b114a8.png)
 
-## 3.当API返回的数据结构复杂，你需要快速构建model?
+# 3. 当API返回的数据结构复杂，你需要快速构建model?
 
 虽然我在2018年已经分享过这篇解析复杂JSON的文章，在今天它仍然非常流行。
 
@@ -97,7 +97,7 @@ https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f5
 
 ![](https://img-blog.csdnimg.cn/img_convert/7f252c2d956d5dfc0146670cccc3dbc9.png)
 
-## 4. 从一个运行着的模拟器/设备预览你的应用程序
+# 4. 从一个运行着的模拟器/设备预览你的应用程序
 
 作为一名Android开发人员，仅仅为不同的屏幕大小创建xml就需要花费好几天的时间，因为Android设备有不同的形状和大小，而且重要的是你需要让你的应用程序在不同的设备上表现一致。iOS开发人员的情况也没有什么不同，苹果公司的iPhone屏幕大小不一。有时，我们还必须支持平板电脑或iPad设备。
 
@@ -129,7 +129,7 @@ https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f5
 
 **device_preview** 包地址：https://pub.dev/packages/device_preview
 
-## 5.使用测试版本学习,使用稳定版本工作
+# 5. 使用测试版本学习,使用稳定版本工作
 
 如果你使用Flutter中构建应用程序，你很有可能使用稳定的Flutter版本来开发和部署你的应用程序。谁会冒险在一个实验性的flutter版本上开发一个客户项目，对吗?
 
@@ -188,12 +188,3 @@ fvm use stable
 **FVM**包地址：https://pub.dev/packages/fvm
 
 
-
-PS：
-
-此篇文章为medium翻译，[原文地址](https://medium.com/flutter-community/5-flutter-packages-tools-for-faster-more-productive-project-development-f8adbac05616)
-
-##  完整示例
-
-上文所有的代码示例都在作者的GiuHub上，https://github.com/jack0-0wu/flutter_demo，里面还包含了一些常用flutter功能的展示。
-![](https://img-blog.csdnimg.cn/20201226215330882.png)
