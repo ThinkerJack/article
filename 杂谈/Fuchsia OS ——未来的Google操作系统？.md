@@ -1,6 +1,4 @@
-# Fuchsia OS –未来的Google操作系统？
-
-Google正在开发一个新的操作系统：借助Fuchsia OS，该技术小组放弃了Linux体系结构，转而依靠**自行开发的微内核Zircon**。Fuchsia 不仅可以替代台式机操作系统Chrome操作系统，而且可以替代专为移动设备设计的Android。尽管事实上，Android在当今市场上几乎是无与伦比的。
+![](https://img-blog.csdnimg.cn/1006d68dd9bc42b2af325cc49eb1e06b.png)Google正在开发一个新的操作系统：借助Fuchsia OS，该技术小组放弃了Linux体系结构，转而依靠**自行开发的微内核Zircon**。Fuchsia 不仅可以替代台式机操作系统Chrome操作系统，而且可以替代专为移动设备设计的Android。尽管事实上，Android在当今市场上几乎是无与伦比的。
 
 Google Fuchsia是未来的操作系统吗？我们仔细研究了该项目。
 
@@ -75,7 +73,7 @@ Peridot是Fuchsia OS的操作系统级别，根据当前用户要求在其上管
 
 Topaz是Fuchsia OS的系统级别，用户可以在其中与操作系统进行交互。在此显示以下级别定义的组件的用户界面：带主屏幕的图形用户界面（取决于设备Armadillo或Capybara）以及模块的可视前端。Google的跨平台开源移动应用程序框架[**Flutter**](https://flutter.dev/)也已在此系统级别集成。因此，可以假定Fuchsia OS用户将来也将能够运行和使用其他系统的应用程序，例如Android或iOS应用程序。
 
-[![Fuchsia OS的模块化系统架构](https://img-blog.csdnimg.cn/20201211111146859.png)](https://img-blog.csdnimg.cn/20201211111146859.png)Fuchsia OS的四个系统级别：Zircon, Garnet, Peridot, and Topaz
+[![Fuchsia OS的模块化系统架构](https://img-blog.csdnimg.cn/20201211111146859.png)](https://img-blog.csdnimg.cn/20201211111146859.png)Fuchsia OS的四个系统级别：Zircon， Garnet， Peridot， and Topaz
 
 ## Fuchsia OS的优缺点一目了然
 
@@ -133,4 +131,3 @@ https://arstechnica.com/gadgets/2020/12/googles-secretive-fuchsia-os-is-open-for
 https://www.ionos.com/digitalguide/server/tools/fuchsia-os/
 
 
-![](https://img-blog.csdnimg.cn/20201226215330882.png)
