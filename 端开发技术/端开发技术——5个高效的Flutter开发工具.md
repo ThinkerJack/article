@@ -187,4 +187,6 @@ fvm use stable
 
 **FVM**包地址：https://pub.dev/packages/fvm
 
+![](https://img-blog.csdnimg.cn/c66cc07b674c424ba11ec6825e22a640.png)
 
+![](https://img-blog.csdnimg.cn/46f9ed15f914479ab130d47e9578e721.png)

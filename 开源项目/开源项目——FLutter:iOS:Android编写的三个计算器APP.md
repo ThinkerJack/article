@@ -136,3 +136,7 @@ android/iOS/flutter 三种技术写同一种APP本意是为了熟悉一下近来
 我虽然希望一年后的自己成功，但我更希望一年后的自己快乐。人生一辈子都追求正确，虽然能有一个好的结果，但是也会错过一些其他的风景，我决定去看看这些风景。
 
 “我支持你，加油！”
+
+![](https://img-blog.csdnimg.cn/c66cc07b674c424ba11ec6825e22a640.png)
+
+![](https://img-blog.csdnimg.cn/46f9ed15f914479ab130d47e9578e721.png)

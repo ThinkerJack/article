@@ -77,3 +77,7 @@ UI框架：UIKit
 # 写在末尾
 
 Android 和 Flutter 端的工程不打算写了，做同一种事情的工具掌握三种并没有什么意义，软件开发核心还是基础和流程，拒绝做API boy。
+
+![](https://img-blog.csdnimg.cn/c66cc07b674c424ba11ec6825e22a640.png)
+
+![](https://img-blog.csdnimg.cn/46f9ed15f914479ab130d47e9578e721.png)
