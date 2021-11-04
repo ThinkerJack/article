@@ -1,8 +1,6 @@
 ![](https://img-blog.csdnimg.cn/38fbbdcb183a4cb4b51ed03edc91a9fe.png)
 # 1. 你是否需要更好，更简洁的日志?
 
-![](https://img-blog.csdnimg.cn/img_convert/186815b8d09ed942c4681ec86cad60c4.png)
-
 当你在开发Flutter应用程序时，难以理解的日志是一个大问题，因为没有快速的方法来根据问题的严重程度过滤你的日志。抛出异常或记录一条简单的调试消息?他们看起来都一样。
 
 如果你的Flutter app需要更好的日志系统，**Logger** 软件包绝对是个好东西。
@@ -35,7 +33,7 @@ logger.wtf("WTF logs??")
 [![DDnGHx.png](https://img-blog.csdnimg.cn/img_convert/ecf2ee03a4ea398566fee3948f15e503.png)](https://imgchr.com/i/DDnGHx)
 不仅如此，你还可以晃动你的设备来查看屏幕上的日志。(PS：需要导入[logger_flutter](https://pub.dev/packages/logger_flutter)包)
 
-# ![](https://img-blog.csdnimg.cn/img_convert/186815b8d09ed942c4681ec86cad60c4.png)2. API还没有从后端准备好，或者根本没有API ?应用程序靠自己硬编数据?
+# 2. API还没有从后端准备好，或者根本没有API ?应用程序靠自己硬编数据?
 
 如果你还在艰难的coding,全是自己硬编数据因为后台没有准备好他们的API或者根本没有任何API,如果你仍然希望UI有意义,您可以使用**faker**包——Jesper Hakansson为应用程序生成有意义的数据。
 
@@ -62,8 +60,6 @@ faker.sport.name()
 在这个包下还有更多种类的数据可用，这是自己硬编数据的一个很好的替代品，当项目变得更复杂时，自己硬编数据是很难替换的。
 
 **faker**包地址：https://pub.dev/packages/faker/example
-
-![](https://img-blog.csdnimg.cn/img_convert/f946a78619c9b1dcaee29c33f2b114a8.png)
 
 # 3. 当API返回的数据结构复杂，你需要快速构建model?
 
@@ -94,8 +90,6 @@ https://medium.com/flutter-community/parsing-complex-json-in-flutter-747c46655f5
 添加这个类到你的flutter项目，你就可以使用了。
 
 ![](https://img-blog.csdnimg.cn/img_convert/794f5af83f17a9d3084252d3dc9746f8.gif)
-
-![](https://img-blog.csdnimg.cn/img_convert/7f252c2d956d5dfc0146670cccc3dbc9.png)
 
 # 4. 从一个运行着的模拟器/设备预览你的应用程序
 
