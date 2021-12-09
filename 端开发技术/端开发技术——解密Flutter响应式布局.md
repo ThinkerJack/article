@@ -20,7 +20,7 @@ Android UI设计中引入的一个革命性的东西是ConstraintLayout。它可
 
 要解决上述问题，您可以为不同大小的设备使用alternative layouts。例如，你可以在平板电脑等设备上使用分屏视图来提供良好的用户体验，并明智地使用大屏幕。
 
-![Image for post](https://img-blog.csdnimg.cn/20201206225556980.png)
+![](https://img-blog.csdnimg.cn/20201206225556980.png)
 
 在Android中，你可以为不同的屏幕大小定义不同的布局文件，Android框架会根据设备的屏幕大小自动处理这些布局之间的切换。
 
@@ -100,7 +100,7 @@ class HomePage extends StatelessWidget {
 }
 ```
 
-![Image for post](https://img-blog.csdnimg.cn/20201206225557120.png)
+![](https://img-blog.csdnimg.cn/20201206225557120.png)
 
 ### 3.1.2 LayoutBuilder
 
@@ -158,7 +158,7 @@ class HomePage extends StatelessWidget {
 }
 ```
 
-![Image for post](https://img-blog.csdnimg.cn/20201206225557248.png)
+![](https://img-blog.csdnimg.cn/20201206225557248.png)
 PS:当你在构建一个小部件，想知道他的宽度是多少时，使用这个组件，你可以根据子组件可用高/宽度来进行判断，构建不同的布局
 
 ### 3.1.3 OrientationBuilder
@@ -217,7 +217,7 @@ class HomePage extends StatelessWidget {
 }
 ```
 
-![Image for post](https://img-blog.csdnimg.cn/20201206225557407.png)
+![](https://img-blog.csdnimg.cn/20201206225557407.png)
 
 portrait (纵向) landscape（横向）
 
@@ -286,7 +286,7 @@ class OrientationBuilderDemo extends StatelessWidget {
 
 ```
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201206225557549.png)
+![](https://img-blog.csdnimg.cn/20201206225557549.png)
 
 想必你已经理解了OrientationBuilder的方向定义，如果一个小部件的宽大于高，他就是横向的，如果高大于宽，他就是横向的，仅此而已。
 
@@ -381,7 +381,7 @@ class FlexibleWidget extends StatelessWidget {
 
 
 
-![Image for post](https://img-blog.csdnimg.cn/20201206225557662.png)
+![](https://img-blog.csdnimg.cn/20201206225557662.png)
 
 PS:与[expand]不同的是，[Flexible]不需要子widget填充剩余的空间，第一个例子，expanded虽然有填充空余空间的功能，不过expanded组件和flexible组件的flex都是1,相当于将纵轴分成两半，expanded所拥有的全部空间就是纵轴的一半，实际他已经填充了。
 
@@ -514,7 +514,7 @@ class AspectRatioWidget extends StatelessWidget {
 }
 ```
 
-![Image for post](https://img-blog.csdnimg.cn/20201206225557772.png)
+![](https://img-blog.csdnimg.cn/20201206225557772.png)
 
 我们已经研究了大多数重要的概念，为建立一个响应式布局Flutter app，除了最后一个。
 
@@ -531,9 +531,9 @@ app主要由两个部分组成:
 
 - **HomePage** (`PeopleView`, `BookmarkView`, `ContactView`)
 
-- **ChatPage** (`PeopleView`, `ChatView`)![在这里插入图片描述](https://img-blog.csdnimg.cn/20201206225557953.png)
+- **ChatPage** (`PeopleView`, `ChatView`)![](https://img-blog.csdnimg.cn/20201206225557953.png)
 
-  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201206225558317.png)
+  ![](https://img-blog.csdnimg.cn/20201206225558317.png)
 
 对于大屏幕，我们将显示包含MenuWidget和DestinationView的分屏视图。您可以看到，在Flutter中创建分屏视图是非常容易的，您只需使用一行将它们并排放置，然后为了填满整个空间，只需使用Expanded widget包装两个视图。您还可以定义扩展小部件的flex属性，这将允许您指定每个小部件应该覆盖屏幕的多少部分(默认flex设置为1)。
 
